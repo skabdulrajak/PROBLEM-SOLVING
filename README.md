@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0119-pascals-triangle-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
