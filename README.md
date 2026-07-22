@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
