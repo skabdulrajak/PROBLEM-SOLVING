@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0125-valid-palindrome) |
+| [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
+| [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
