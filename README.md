@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
