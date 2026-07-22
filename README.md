@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0290-word-pattern) |
 | [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
