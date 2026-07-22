@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2833-furthest-point-from-origin](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
