@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [2469-convert-the-temperature](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -92,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
