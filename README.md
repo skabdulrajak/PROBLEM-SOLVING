@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3838-weighted-word-mapping](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2833-furthest-point-from-origin](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2942-find-words-containing-character) |
+| [3838-weighted-word-mapping](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
