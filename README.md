@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
