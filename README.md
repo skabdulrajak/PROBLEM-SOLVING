@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
 | [2469-convert-the-temperature](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3898-find-the-degree-of-each-vertex) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
