@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
