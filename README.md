@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2469-convert-the-temperature) |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
