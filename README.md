@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2469-convert-the-temperature) |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1148-article-views-i) |
 | [1789-primary-department-for-each-employee](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1978-employees-whose-manager-left-the-company) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
