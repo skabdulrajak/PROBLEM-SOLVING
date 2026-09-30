@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
