@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2469-convert-the-temperature) |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
+| [2652-sum-multiples](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3513-number-of-unique-xor-triplets-i) |
