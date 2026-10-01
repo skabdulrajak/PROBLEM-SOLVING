@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3838-weighted-word-mapping](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3838-weighted-word-mapping) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0866-prime-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
