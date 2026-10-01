@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0866-prime-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0866-prime-palindrome) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
