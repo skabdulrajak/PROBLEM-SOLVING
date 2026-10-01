@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0268-missing-number) |
+| [0866-prime-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0866-prime-palindrome) |
 | [2614-prime-in-diagonal](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2614-prime-in-diagonal) |
 ## Database
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
