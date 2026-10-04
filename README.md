@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1025-divisor-game) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0678-valid-parenthesis-string) |
 | [1108-defanging-an-ip-address](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1108-defanging-an-ip-address) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0678-valid-parenthesis-string) |
 | [2000-reverse-prefix-of-word](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0089-gray-code) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/skabdulrajak/PROBLEM-SOLVING/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
